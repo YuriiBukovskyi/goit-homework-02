@@ -1,5 +1,8 @@
 body {
   font-family: "Roboto", sans-serif;
+  color: #434455 
+  background-color: #FFFFFF
+  
 }
 ul {
   list-style: none;
@@ -10,7 +13,7 @@ a {
 
 .header-logo {
   color: #2e2f42;
-  font-family: Raleway;
+  font-family: Raleway, sans-serif;
   font-size: 18px;
   font-style: normal;
   font-weight: 700;
