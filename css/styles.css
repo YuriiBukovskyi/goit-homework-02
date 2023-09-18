@@ -157,22 +157,29 @@ span {
 }
 .footer-logo {
   color: #4d5ae5;
-  font-family: sans-serif;
+  font-family: Raleway;
   font-size: 18px;
+  font-style: normal;
   font-weight: 700;
   line-height: 1.17;
   letter-spacing: 0.03em;
+  text-transform: uppercase;
 }
 .item-studio {
   color: #f4f4fd;
+  font-family: Raleway;
   font-size: 18px;
+  font-style: normal;
   font-weight: 700;
   line-height: 1.17;
   letter-spacing: 0.03em;
+  text-transform: uppercase;
 }
 .footer-text {
   color: #f4f4fd;
+  font-family: Roboto;
   font-size: 16px;
+  font-style: normal;
   font-weight: 400;
   line-height: 1.5;
   letter-spacing: 0.02em;
